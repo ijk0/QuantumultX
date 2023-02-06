@@ -1,0 +1,5 @@
+#  openai, chatgpt
+host,chat.openai.com,proxy
+DOMAIN-SUFFIX,openai.com,PROXY
+host,cloudflare.hcaptcha.com,proxy
+DOMAIN-SUFFIX,cloudflare.hcaptcha.com,proxy
