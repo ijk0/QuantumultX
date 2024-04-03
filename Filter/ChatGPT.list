@@ -5,3 +5,4 @@ host,cloudflare.hcaptcha.com,proxy
 DOMAIN-SUFFIX,cloudflare.hcaptcha.com,proxy
 DOMAIN-SUFFIX,oaistatic.com,proxy
 DOMAIN-SUFFIX,oaiusercontent.com,proxy
+DOMAIN-SUFFIX,chatgpt.com,proxy
