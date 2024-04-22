@@ -16,3 +16,9 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chatgpt.com
+## other ai
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,claude.ai
+DOMAIN,anthropic.com
+DOMAIN,meta.ai
