@@ -19,6 +19,6 @@ DOMAIN-SUFFIX,chatgpt.com
 ## other ai
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
-DOMAIN,claude.ai
-DOMAIN,anthropic.com
-DOMAIN,meta.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,meta.ai
