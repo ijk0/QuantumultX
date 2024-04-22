@@ -2,5 +2,7 @@ DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,academic.oup.com
 DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
 DOMAIN,claude.ai
 DOMAIN,anthropic.com
+DOMAIN,meta.ai
