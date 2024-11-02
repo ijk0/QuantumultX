@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,meta.ai
 ## zed 
 DOMAIN-SUFFIX,cloudflare-dns.com
+## https://scholar.google.com/
+DOMAIN,scholar.google.com
