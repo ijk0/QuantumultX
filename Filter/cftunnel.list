@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,api.cloudflare.com
 DOMAIN-SUFFIX,update.argotunnel.com
 DOMAIN-SUFFIX,pqtunnels.cloudflareresearch.com
 DOMAIN-SUFFIX,ijk0.cloudflareaccess.com
+IP-CIDR,198.41.192.0/24
+IP-CIDR,198.41.200.0/24
