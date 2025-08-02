@@ -28,4 +28,5 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh.cdn.cloudflare.net
 
